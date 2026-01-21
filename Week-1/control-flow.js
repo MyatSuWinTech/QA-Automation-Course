@@ -81,3 +81,8 @@ switch (day) {
   default:
     console.log("I was waiting for this day");
 }
+
+// Test 1
+
+let A = "Hi";
+A = B;

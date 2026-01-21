@@ -50,3 +50,7 @@ console.log(myTotalKids);
 myTotalKids = 4;
 // reassigning myTotalKids //
 console.log(myTotalKids);
+
+// Test 2
+
+const C = "Hey";
