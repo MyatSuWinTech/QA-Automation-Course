@@ -134,7 +134,7 @@ console.log(playingStatus);
 // If it exists (truthy), print `"Welcome back"`
 // Otherwise, print `"Please sign up"`
 // Use **logical** operators only.
-let username = "Myat Thura Htun";
+let username = "Su";
 
 if (username) {
   console.log("Welcome back");
